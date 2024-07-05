@@ -1,0 +1,7 @@
+Неделя 1
+
+1. https://www.codewars.com/kata/reviews/5c7d32946e54c8000115c266/groups/6688191b049761dda0e5bb9c
+2. https://www.codewars.com/kata/reviews/57777eb421b7217a4600016e/groups/668812c9d12b72ff68c844a7
+3. https://www.codewars.com/kata/reviews/63ee5b0d53812f000108e745/groups/6683e0d663063e84faf048d9
+4. https://www.codewars.com/kata/reviews/644cf4bf3aad5b00015d2d9f/groups/6683ed72aa5eb1547db8b8b5
+5. https://www.codewars.com/kata/reviews/6093d5b7e0130b0001a90b78/groups/6683fb7764904b78829d94ec
