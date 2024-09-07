@@ -40,3 +40,15 @@
 4. https://www.codewars.com/kata/reviews/5762af2cd726c886ed0043d6/groups/66cf2adecaa8e310090c7d05
 5. https://www.codewars.com/kata/reviews/60926995d2b7e90001d9b590/groups/66ce077f60ebf6f1d8f804e0
 6. https://www.codewars.com/kata/reviews/5bcdff7b0b96ae5656001e02/groups/66ce06efbf5043bfb07636c1
+
+6 неделя
+
+1. https://www.codewars.com/kata/reviews/57fba5f9eea29815ee00011d/groups/66d8519b4417b7ce6610457a
+2. https://www.codewars.com/kata/reviews/57626fb4eb1e55a4120023f2/groups/592c6e82859ddfd57900012c
+3. https://www.codewars.com/kata/reviews/5b58c511ee4a19ff740000a9/groups/66db5623fb5e52c510b93f58
+4. https://www.codewars.com/kata/reviews/5890fb87da45051ad3001315/groups/66db5cdfa52abcec52c8b237
+5. https://www.codewars.com/kata/reviews/639882bf0621170001aedc51/groups/66db5eba55079f3d2d30bf78
+6. https://www.codewars.com/kata/reviews/62950a19097b4b0001ffc10a/groups/66dc2c9f7d8511f1e1f7ddf2
+7. https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/66c893842550e30323f6f442
+8. https://www.codewars.com/kata/reviews/591746e2733930039a0000be/groups/66dc3855fb5e52c510b95678
+9. https://www.codewars.com/kata/reviews/5d5ed826ad2c6800010db5d3/groups/66dc3a202a7549f9d4b76a8b
