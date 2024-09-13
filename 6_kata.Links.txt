@@ -52,3 +52,54 @@
 7. https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/66c893842550e30323f6f442
 8. https://www.codewars.com/kata/reviews/591746e2733930039a0000be/groups/66dc3855fb5e52c510b95678
 9. https://www.codewars.com/kata/reviews/5d5ed826ad2c6800010db5d3/groups/66dc3a202a7549f9d4b76a8b
+
+
+7 неделя
+
+1. https://www.codewars.com/kata/reviews/5ed16a070cf1d700016d5e3b/groups/66e459de1c754646eaeba19b
+2. https://www.codewars.com/kata/reviews/5769679ca7ffaf6f66005f8a/groups/66e2fa1a597ed7e78ad734e0
+3. https://www.codewars.com/kata/reviews/5789f1db0f772fdbd8000055/groups/66e1a40fbeac107a17fe9205
+4. https://www.codewars.com/kata/reviews/579529f173938ea8bf0000dc/groups/66e04f182fa5336025d7142d
+5. https://www.codewars.com/kata/5ce399e0047a45001c853c2b/solutions/cpp?filter=me&sort=best_practice&invalids=false
+(5 не отображает решение. Прикрепил решение ниже)
+
+#include<vector>
+
+std::vector<unsigned long long> partsSum(const std::vector<unsigned long long>& ls)
+{
+	//sum_results для хранения результатов сумм
+	//для хранения суммы всего вектора
+	std::vector<unsigned long long> sum_results;
+	unsigned long long total_sum = 0;
+
+	//цикл, который вычисляет сумму всего вектора
+	for (const auto& num : ls)
+	{
+		total_sum += num;
+	}
+
+	//пушим сумму всех элементов вектора в вектор sum_results
+	sum_results.push_back(total_sum);
+
+	//цикл, который проходится по всему вектору ls, 
+	//каждую итерацию цикла вычитая из общей суммы текущий элемент массива 
+	//и пушит результат суммы в вектор sum_results
+	for (size_t i = 0; i < ls.size(); ++i)
+	{
+		total_sum -= ls[i];
+		sum_results.push_back(total_sum);
+	}
+
+	return sum_results;
+
+	//ls = [1, 2, 3, 4, 5, 6]
+
+	//[21, 18, 15, 11, 6, 0
+
+	//21 - 1 = 20
+	//20 - 2 = 18
+	//18 - 3 = 15
+	//15 - 4 = 11
+	//11 - 5 = 6
+	//6 - 6 = 0
+}
