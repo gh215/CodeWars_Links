@@ -1,0 +1,107 @@
+1 неделя.
+
+1. https://www.codewars.com/kata/reviews/5b228cc3e39af6868d00220d/groups/66a9162c4fd5529a3a3ca107
+2. https://www.codewars.com/kata/reviews/5cecfd9d5324de0001ac97ef/groups/61ee347dc23beb0001f659ff
+3. https://www.codewars.com/kata/reviews/578538457e3a78630c000166/groups/5f4b7a8469f1cd00010aa134
+4. https://www.codewars.com/kata/reviews/5badaf97b684d3165d00061c/groups/66aa3b88c47f559350fc345d
+5. https://www.codewars.com/kata/reviews/5bf6bb5829354d2bf3002188/groups/66aa419f4730c923755741fc
+6. https://www.codewars.com/kata/reviews/5b7a98f54bfefbc86c000de2/groups/65b14d352d02ad00015854a0
+7. https://www.codewars.com/kata/reviews/59f6032325db0562d3001224/groups/66ad007db06f362a5df7eb4e
+8. https://www.codewars.com/kata/reviews/6308557bbafd7a0001e358fb/groups/66ad721e4c5c5a673c7af6e2
+
+2 неделя
+
+1. https://www.codewars.com/kata/reviews/597fe076f9788acdc7000009/groups/66b0cabeb2d62397a0bc23e7
+2. https://www.codewars.com/kata/reviews/57874987d9456ea80500019f/groups/66b0d27eb2d62397a0bc24fb
+3. https://www.codewars.com/kata/reviews/5b27af23a0c893c2fa0005f8/groups/66b354d0ae0234823278a96a
+4. https://www.codewars.com/kata/5ca6c0a2783dec001da025ee/solutions/cpp?filter=me&sort=best_practice&invalids=false
+5. https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/solutions/cpp?filter=me&sort=best_practice&invalids=false
+
+3 неделя
+
+1. https://www.codewars.com/kata/reviews/581ce0db85bd7c5d72000005/groups/66bf729b941c17b453f3ade9
+2. https://www.codewars.com/kata/reviews/5b4d7d5b9b9ac6670d00115d/groups/623cacddfa9a3500017be219
+3. https://www.codewars.com/kata/reviews/5968ef9c800ed4421c00067b/groups/66bf67ba941c17b453f3ac31
+
+4 неделя
+
+1. https://www.codewars.com/kata/reviews/5761065d76cb9c8beb001176/groups/66ca314ff481ca9b45cefe53
+2. https://www.codewars.com/kata/reviews/64ee2fcd18408b0001493284/groups/650f526e388fcf0001d57181
+3. https://www.codewars.com/kata/reviews/575e5517569d928432000003/groups/66c77c364ddbf8157187302a
+4. https://www.codewars.com/kata/reviews/5a8160f8dbdf6cba31000cc9/groups/66c75b04c39eae9d63bc0a48
+5. https://www.codewars.com/kata/reviews/63e2627d039edf0001a8fb2f/groups/66c4857f7e75e9a98a95cc82
+6. https://www.codewars.com/kata/reviews/66c3c7c0cc98d1c628ec38d5/groups/66c483197e75e9a98a95cc27
+
+5 Неделя
+
+1. https://www.codewars.com/kata/reviews/59d40d7867cabde815002a6e/groups/66d063c876c473a35bf21547
+2. https://www.codewars.com/kata/reviews/57ce1a69c96c87e6ed00013d/groups/66d05f0c9d50c5d1a05015f4
+3. https://www.codewars.com/kata/reviews/577bc8af7976243ef200014c/groups/66cf2f2e7595b767e391bdf6
+4. https://www.codewars.com/kata/reviews/5762af2cd726c886ed0043d6/groups/66cf2adecaa8e310090c7d05
+5. https://www.codewars.com/kata/reviews/60926995d2b7e90001d9b590/groups/66ce077f60ebf6f1d8f804e0
+6. https://www.codewars.com/kata/reviews/5bcdff7b0b96ae5656001e02/groups/66ce06efbf5043bfb07636c1
+
+6 неделя
+
+1. https://www.codewars.com/kata/reviews/57fba5f9eea29815ee00011d/groups/66d8519b4417b7ce6610457a
+2. https://www.codewars.com/kata/reviews/57626fb4eb1e55a4120023f2/groups/592c6e82859ddfd57900012c
+3. https://www.codewars.com/kata/reviews/5b58c511ee4a19ff740000a9/groups/66db5623fb5e52c510b93f58
+4. https://www.codewars.com/kata/reviews/5890fb87da45051ad3001315/groups/66db5cdfa52abcec52c8b237
+5. https://www.codewars.com/kata/reviews/639882bf0621170001aedc51/groups/66db5eba55079f3d2d30bf78
+6. https://www.codewars.com/kata/reviews/62950a19097b4b0001ffc10a/groups/66dc2c9f7d8511f1e1f7ddf2
+7. https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/66c893842550e30323f6f442
+8. https://www.codewars.com/kata/reviews/591746e2733930039a0000be/groups/66dc3855fb5e52c510b95678
+9. https://www.codewars.com/kata/reviews/5d5ed826ad2c6800010db5d3/groups/66dc3a202a7549f9d4b76a8b
+
+
+7 неделя
+
+1. https://www.codewars.com/kata/reviews/5ed16a070cf1d700016d5e3b/groups/66e459de1c754646eaeba19b
+2. https://www.codewars.com/kata/reviews/5769679ca7ffaf6f66005f8a/groups/66e2fa1a597ed7e78ad734e0
+3. https://www.codewars.com/kata/reviews/5789f1db0f772fdbd8000055/groups/66e1a40fbeac107a17fe9205
+4. https://www.codewars.com/kata/reviews/579529f173938ea8bf0000dc/groups/66e04f182fa5336025d7142d
+5. https://www.codewars.com/kata/5ce399e0047a45001c853c2b/solutions/cpp?filter=me&sort=best_practice&invalids=false
+(5 не отображает решение. Прикрепил решение ниже)
+
+#include<vector>
+
+std::vector<unsigned long long> partsSum(const std::vector<unsigned long long>& ls)
+{
+	//sum_results для хранения результатов сумм
+	//для хранения суммы всего вектора
+	std::vector<unsigned long long> sum_results;
+	unsigned long long total_sum = 0;
+
+	//цикл, который вычисляет сумму всего вектора
+	for (const auto& num : ls)
+	{
+		total_sum += num;
+	}
+
+	//пушим сумму всех элементов вектора в вектор sum_results
+	sum_results.push_back(total_sum);
+
+	//цикл, который проходится по всему вектору ls, 
+	//каждую итерацию цикла вычитая из общей суммы текущий элемент массива 
+	//и пушит результат суммы в вектор sum_results
+	for (size_t i = 0; i < ls.size(); ++i)
+	{
+		total_sum -= ls[i];
+		sum_results.push_back(total_sum);
+	}
+
+	return sum_results;
+
+	//ls = [1, 2, 3, 4, 5, 6]
+
+	//[21, 18, 15, 11, 6, 0
+
+	//21 - 1 = 20
+	//20 - 2 = 18
+	//18 - 3 = 15
+	//15 - 4 = 11
+	//11 - 5 = 6
+	//6 - 6 = 0
+}
+
+
