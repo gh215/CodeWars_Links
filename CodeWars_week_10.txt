@@ -1,0 +1,30 @@
+10 неделя
+
+7 Кю
+
+I. C++
+1. https://www.codewars.com/kata/reviews/5b7d74c930f0e010a20014ba/groups/67cae459393dcfec53302371
+2. https://www.codewars.com/kata/reviews/5b9f2312f999dfc8a5001146/groups/67caf58200379fb4596aaa32
+3. https://www.codewars.com/kata/reviews/5b3970f5eec0f02f97000697/groups/67cb0620e8ef9b47801b8f5a
+
+
+II. Python
+1. https://www.codewars.com/kata/reviews/67c76b0894c739a38d8352a9/groups/67cae48d17efc1d59ebe262a
+2. https://www.codewars.com/kata/reviews/58db499c48a312c188001cb9/groups/67caf9c7f61e515c01c5f27d
+3. https://www.codewars.com/kata/reviews/58da1e7bcdbceb7b4e000975/groups/67cb068600379fb4596aac95
+
+6 Кю
+
+I. C++
+1. https://www.codewars.com/kata/reviews/5a4898629814bbeccc0010e0/groups/67cb223df61e515c01c5f78b
+
+II. Python
+1. https://www.codewars.com/kata/reviews/5a48956c3cdf8abe9800230e/groups/67cb24057d4b38dd3d61cc72
+
+5 Кю
+
+I. C++
+1. https://www.codewars.com/kata/reviews/5b1cd753777ab73442000192/groups/67cb24e3bb0d9ca54248cc5b
+
+II. Python
+1. https://www.codewars.com/kata/reviews/5b1cd1bc2dec7984ab000c5a/groups/67cb2506f61e515c01c5f7dd
